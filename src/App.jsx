@@ -111,17 +111,17 @@ function App() {
           <div className="about-info">
 
             <div>
-              <b>🎓 BCA Graduate</b>
+              <b> BCA Graduate</b>
               <small>Computer Applications</small>
             </div>
 
             <div>
-              <b>📍 Gujarat</b>
+              <b> Gujarat</b>
               <small>India</small>
             </div>
 
             <div>
-              <b>♥ Always Learning</b>
+              <b> Always Learning</b>
               <small>Better Every Day</small>
             </div>
 
